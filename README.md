@@ -1,2 +1,2 @@
 # CSEISMIC-2K19
-Symposium Website built in Bootstrap 4
+Static Website for Symposium built in Bootstrap 4
